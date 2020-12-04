@@ -7,7 +7,12 @@ package uts.if2.pkg10119080.kevinpratamasinaga.no3;
 
 /**
  *
- * @author User
+ * @author
+ * NAMA     : Kevin Pratama Sinaga
+ * KELAS    : PBOIF2
+ * NIM      : 10119080
+ * Deskripsi Program : Program ini berisi program untuk menampilkan
+ * (OBJECT ORIENTED) Genre Musik
  */
 public class UTSIF210119080KEVINPRATAMASINAGANo3 {
 

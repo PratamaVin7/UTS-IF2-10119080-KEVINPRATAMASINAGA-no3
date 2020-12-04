@@ -14,7 +14,12 @@ import uts.if2.pkg10119080.kevinpratamasinaga.no3.PsychedellicRock;
 
 /**
  *
- * @author User
+ * @author
+ * NAMA     : Kevin Pratama Sinaga
+ * KELAS    : PBOIF2
+ * NIM      : 10119080
+ * Deskripsi Program : Program ini berisi program untuk menampilkan
+ * (OBJECT ORIENTED) Genre Musik
  */
 public class HardRock extends MusicGenre implements PopRock, ProgressiveRock, PsychedellicRock{
     public void genreHardRock(String artistName) {
